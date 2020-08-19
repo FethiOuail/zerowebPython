@@ -17,6 +17,7 @@ print(100 > 90)
 print("=" * 50)
 
 # True Values
+print("-" * 50)
 
 print(bool("Osama"))
 print(bool(100))
